@@ -19,7 +19,7 @@
 
 ### **🌷 ABOUT ME**
 
-I'm a Computer Engineering student interested in **Data Engineering,Data Analytics, and building data-driven solutions** ♡
+I'm a Computer Engineering student interested in **Data Engineering, Data Analytics, and building data-driven solutions** ♡
 
 **Areas of Interest**
 
@@ -84,6 +84,6 @@ I'm a Computer Engineering student interested in **Data Engineering,Data Analyti
 
 **📧 Email : [praewa.thuwa@gmail.com](mailto:praewa.thuwa@gmail.com)** 
 
-**💼 LinkedIn : [Praewa Thuwatharanimitkul](https://www.linkedin.com/in/praewa-thuwatharanimitkul/)**
+**💼 LinkedIn : [Praewa Thuwatharanimitkul](https://www.linkedin.com/in/praewa-thuwatharanimitkul-606b05197/)**
 
 </div>
