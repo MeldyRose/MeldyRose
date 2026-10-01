@@ -68,9 +68,14 @@ I'm a Computer Engineering student interested in **Data Engineering, Data Analyt
 <img src="https://cdn.simpleicons.org/mysql/4479A1" width="48" alt="MySQL"/>
 <img src="https://cdn.simpleicons.org/git/F05032" width="48" alt="Git"/>
 <img src="https://cdn.simpleicons.org/docker/2496ED" width="48" alt="Docker"/>
-<img src="https://cdn.simpleicons.org/apacheairflow/017CEE" width="48" alt="Airflow"/>
+<img src="https://cdn.simpleicons.org/apacheairflow/017CEE" width="48" alt="Apache Airflow"/>
 <img src="./assets/Power-BI.png" width="37" alt="Power BI"/>
 <img src="https://cdn.simpleicons.org/figma/F24E1E" width="48" alt="Figma"/>
+<img src="https://cdn.simpleicons.org/apachespark/E25A1C" width="48" alt="Spark"/>
+<img src="./assets/AWS_S3.webp" width="48" alt="AWS S3"/>
+<img src="./assets/AWS_Athena.png" width="48" alt="AWS Athena"/>
+<img src="https://cdn.simpleicons.org/apachekafka/231F20" width="48" alt="Apache Kafka"/>
+<img src="./assets/Tableau-Logo.png" width="80" alt="AWS Athena"/>
 
 </p>
 
